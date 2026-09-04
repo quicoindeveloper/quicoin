@@ -1,2 +1,2 @@
 # quicoin
-My memecoin
+QUICOIN is a cultural community memecoin deeply rooted in Spain's literary heritage. Its entire concept revolves around a humorous and artistic tribute to Don Quixote de la Mancha, the absolute masterpiece of Spanish literature. Rather than focusing on corporate metrics, the project aims to bridge classical culture with web3 technology by placing Miguel de Cervantes' legendary opening lines immutably on the blockchain. It serves as a lighthearted, educational experiment designed for the community to engage with DeFi mechanics through satire, heritage, and cultural identity.
