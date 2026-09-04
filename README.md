@@ -1,0 +1,2 @@
+# quicoin
+My memecoin
